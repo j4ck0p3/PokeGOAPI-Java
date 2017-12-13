@@ -1,4 +1,4 @@
 [submodule "library/src/resources/protobuf"]
 	path = library/src/resources/protobuf
-	url = https://github.com/Furtif/POGOProtos.git
+	url = https://github.com/SkOODaT/POGOProtos.git
 	branch = master
